@@ -5,6 +5,10 @@ h1 {
 
 h4 {
   margin-bottom: 0;
+  color: #343434;
+  font-family: 'Ultra', sans-serif;
+  text-transform: uppercase;
+  text-shadow: 0 2px white, 0 3px #777;
 }
 
 ul, ol {
