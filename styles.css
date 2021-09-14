@@ -5,10 +5,8 @@ h1 {
 
 h4 {
   margin-bottom: 0; 
-  color: #green;
-  font-family: 'Ultra', sans-serif;
-  text-transform: uppercase;
-  text-shadow: 0 2px white, 0 3px #777;
+  color: green;
+  font-family: Times;
 }
 
 ul, ol {
