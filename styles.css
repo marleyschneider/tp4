@@ -2,21 +2,33 @@
 
 h1 {
   font-family: Arial;
-  color: green;
+  color: red;
 }
 
 h4 {
-  margin-bottom: 0; 
-  color: green;
+  margin-bottom: 0;
+  color: white;
   font-family: Times;
+  font-size: 30px;
+  background-image: linear-gradient(red, yellow);
 }
 
-ul, ol {
+ol {
   margin-top: 0;
+}
+
+.selected {
+  color: red;
+  font-family: Brush Script MT;
+  font-size: 25px;
 }
 
 .copyright {
   font-family: Arial;
   font-size: 9px;
   font-style: italic;
+}
+
+#menu li {
+  font-size: 20px;
 }
